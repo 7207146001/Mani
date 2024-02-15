@@ -1,0 +1,2 @@
+# Mani
+daily project details
